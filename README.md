@@ -27,7 +27,7 @@
     * `git commit` your added files to the list of your `staged` files.
     * `git push` your staged files to your remote repository.
     * submit a `pull request` which compares Perscholas `master` to your `master`.
-2. Begin by first ensuring the `main` method in your `PerscholasRocks` class prints `"Perscholas Rocks!"` upon execution.  
+2. Begin by first ensuring the `main` method in your `PerscholasRocks` class prints `"Curriculeon Rocks!"` upon execution.  
 3. Complete each of the method stubs in each of the `main` classes provided.
     * `main` classes are located in `src.main.java.com.github.perscholas.java_fundamentals`
     * There are comments above each method stub to describe the expected behavior.
